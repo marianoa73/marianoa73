@@ -2,8 +2,8 @@
 
 **Infraestructura y automatización con IA | Linux, k3s, Python | Integración de LLMs y operación segura y confiable**
 
-Construyo y opero integraciones de IA sobre infraestructura propia. Documento decisiones, pruebas y recuperación ante
-fallos. Busco proyectos de consultoría o entregables concretos, remotos y de alcance definido.
+Pongo la IA a trabajar en proyectos reales: sobre infraestructura propia, con permisos mínimos y cada decisión
+documentada. Acá comparto cómo lo hago y qué fui aprendiendo, por si a alguien más le sirve.
 
 ## Casos
 
