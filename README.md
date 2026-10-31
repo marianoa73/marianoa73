@@ -9,7 +9,8 @@ fallos. Busco proyectos de consultoría o entregables concretos, remotos y de al
 
 | Caso | Qué muestra |
 |---|---|
-| [AI Operations Lab](https://github.com/marianoa73/ai-operations-lab) | Delegación entre tres IA, elección de modelo, validación humana, fallos y recuperación |
+| [AI Split Raspberry Pi](https://github.com/marianoa73/ai-split-raspberry-pi) | Reparto modular de tareas entre tres IA y un modelo propio sobre una Raspberry Pi: elección de modelo, validación humana, monitoreo, fallos y recuperación |
+| [Family Savings](https://github.com/marianoa73/family-savings) | Mini banco familiar web para enseñar a ahorrar a los chicos: logros con premio visible, aprobación de los adultos, metas y rescates |
 | Monitoreo Linux (en preparación) | Monitoreo multiequipo con permisos mínimos |
 | Notificaciones de tareas (en preparación) | Tarea → cola → panel → aviso, sin duplicados |
 
