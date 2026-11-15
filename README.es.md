@@ -15,6 +15,7 @@ documentada. Acá comparto cómo lo hago y qué fui aprendiendo, por si a alguie
 | [Family Savings](https://github.com/marianoa73/family-savings) | Mini banco familiar web para enseñar a ahorrar a los chicos: logros con premio visible, aprobación de los adultos, metas y rescates | PHP, MariaDB |
 | [AI Animated Shorts](https://github.com/marianoa73/ai-animated-shorts) | Cortos animados en 3D producidos en un equipo propio: voces clonadas de muestras propias, control automático del audio con Whisper, render three.js y revisión humana antes de publicar | Docker, Whisper, three.js |
 | [AI Video Edit & Shorts](https://github.com/marianoa73/ai-video-edit-and-shorts) | Edición privada de videos largos hablados a cámara: una lista de cortes que una persona aprueba antes de renderizar, propuesta de hardware, estimaciones de tiempo con sus supuestos y shorts propuestos desde la misma toma. [Página interactiva](https://marianoa73.github.io/ai-video-edit-and-shorts/?lang=es) | FFmpeg, faster-whisper, Python |
+| [Vaultwarden Self-Hosted & External Recovery](https://github.com/marianoa73/vaultwarden-selfhosted-and-external-recovery) | Un solo lugar para todas las claves: bóveda de contraseñas propia con segundo factor, copia cifrada fuera de sitio, respaldo para contingencias y contacto de emergencia de sólo lectura. [Página interactiva](https://marianoa73.github.io/vaultwarden-selfhosted-and-external-recovery/?lang=es) | Vaultwarden, Docker, GnuPG, SSH |
 
 Todos los repositorios son MIT y están documentados en inglés y en español.
 
