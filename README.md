@@ -15,8 +15,6 @@ documented. Here I share how I do it and what I have learned along the way, in c
 | [Family Savings](https://github.com/marianoa73/family-savings) | A small family bank web app that teaches kids to save: achievements with a visible reward, adult approval, goals and withdrawals | PHP, MariaDB |
 | [AI Animated Shorts](https://github.com/marianoa73/ai-animated-shorts) | 3D animated shorts produced on self-owned hardware: voices cloned from your own samples, automatic audio checking with Whisper, three.js rendering and human review before publishing | Docker, Whisper, three.js |
 | [AI Video Edit & Shorts](https://github.com/marianoa73/ai-video-edit-and-shorts) | Private editing of long talking-head videos: a cut list a person approves before rendering, a hardware proposal, time estimates with their assumptions and shorts proposed from the same take. [Interactive page](https://marianoa73.github.io/ai-video-edit-and-shorts/) | FFmpeg, faster-whisper, Python |
-| Linux monitoring (in preparation) | Multi-host monitoring with minimal permissions | |
-| Task notifications (in preparation) | Task → queue → dashboard → alert, without duplicates | |
 
 All repositories are MIT-licensed and documented in English and Spanish.
 
